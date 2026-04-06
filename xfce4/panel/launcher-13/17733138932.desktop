@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Burpsuite Professional
+Comment=
+Exec=/opt/Burpsuite-Professional/burpsuitepro
+Icon=burpsuite
+Path=/opt/Burpsuite-Professional
+Terminal=false
+StartupNotify=false

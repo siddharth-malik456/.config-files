@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Zen Browser
+Comment=Privacy-focused web browser
+Exec=/home/siddharth/Applications/zen/zen
+Icon=/home/siddharth/Applications/zen/browser/chrome/icons/default/default64.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+X-XFCE-Source=file:///home/siddharth/.local/share/applications/zen.desktop

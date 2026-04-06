@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Flameshot
+Comment=Screenshot Tool
+Exec=/home/siddharth/Applications/Flameshot.AppImage
+Icon=/home/siddharth/Applications/Flameshot_logo.svg
+Path=
+Terminal=false
+StartupNotify=true
+X-XFCE-Source=file:///home/siddharth/.local/share/applications/Flameshot.desktop
